@@ -252,6 +252,7 @@ h2 {
 }
 .timeline-item h3 {
     font-size: calc(95%);
+    width: 100%;
 }
 .event-date {
     font-size: calc(80%);
